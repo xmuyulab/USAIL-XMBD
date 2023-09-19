@@ -4,7 +4,7 @@
 
 `**USAIL**` is a user-centric, scalable, and interactive tool designed for large-scale single-cell RNA-seq (scRNA-seq) data analysis. Utilizing Apache Spark, it accelerates the data processing for scRNA-seq data.Furthermore, USAIL provides a wide array of downstream analysis modules, such as gene set enrichment and cell-cell interaction analysis. A unique feature of USAILscRNA is its user-centric case studies, designed according to the major applications of scRNA-seq in medical and biological research, such as cancer, development, and infectious disease. These case studies guide researchers in selecting appropriate tools, enabling them to focus on biological insights rather than computational foundations.
 
-![Untitled](USAIL%20a%20user-centric,%20scalable%20and%20interactive%20too%20d3c0fcd4e126422e8882dac1e708bde7/Untitled.png)
+![Untitled](https://github.com/xmuyulab/USAIL-XMBD/blob/main/README/Untitled%201.png)
 
 ## **Prerequisites**
 
